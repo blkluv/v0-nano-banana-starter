@@ -15,7 +15,7 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "v0 | Nano Banana Starter",
+  title: "NANO BANANA LUMEE BOOTH",
   description: "Created with v0",
   generator: "v0.app",
 }
