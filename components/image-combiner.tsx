@@ -668,12 +668,12 @@ export function ImageCombiner() {
             <div className="mt-6 pt-4 border-t border-gray-600/50">
               <div className="flex items-center justify-center">
                 <a
-                  href="#"
+                  href="https://app.lumeebooth.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sm text-gray-400 hover:text-white transition-colors duration-200 flex items-center gap-2"
                 >
-                  <span>open in v0</span>
+                  <span>Share it to LUMEE’d In Social</span>
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path
                       strokeLinecap="round"
